@@ -13,7 +13,7 @@ body{
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background-color: #b5c900;
+  background-color: #680ab4;
   padding: 20px;
 }
 
@@ -41,7 +41,7 @@ body{
 }
 
 .btn {
-  background-color: #a8b62b;
+  background-color: #a54dec;
   color: white;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
